@@ -8,12 +8,17 @@ html {
 }
 
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
+  font-size: 20px;
   line-height: 1.5;
+  
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
