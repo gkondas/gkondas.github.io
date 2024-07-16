@@ -21,7 +21,7 @@ repository               : "gkodnas/gkondas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "greg.jpeg"
+  avatar           : "greg_diag.jpg"
   name             : "Gregory Kondas"
   bio              : "Research Assistant @ Michigan AI Lab"
   location         : "Ann Arbor, Michigan"
