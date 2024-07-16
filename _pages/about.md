@@ -18,9 +18,9 @@ Outside of research I enjoy listening to music, keeping up with current events, 
 
 Email: `gkondas (at) umich (dot) edu`
 
-Updates
+News
 ===
-- **6/20/24**: Started as a full-time research assistant with Jenna Wiens's MLD3 group at Michigan
+- **6/20/24**: Started as a full time research assistant with Jenna Wiens's MLD3 group at Michigan
 - **5/4/24**: Graduated with a B.S. in Computer Science and minor in Physics from Michigan with distinction
 - **6/22/23**: Started as a undergraduate research assistant with Jenna Wiens's MLD3 group at Michigan
 
@@ -30,7 +30,7 @@ Publications
 **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks**  
 Sarah Jabbour, **Gregory Kondas**, Ella Kazerooni, Michael W. Sjoding, David Fouhey*, Jenna Wiens*. *ECCV 2024*.  
 <img src="images/depict_thumbnail.png" alt="depict_thumbnail" width="400" style="float: left; margin-right: 10px;">
-Permutation importance has been used to explain tabular-based models feature importance. We extend this to images via text-conditioned diffusion to generate dataset-level explanations for image-based models!  
+Permutation importance has been used to provide feature importance explanations for tabular-based models. Leveraging text-conditioned diffusion, we extend this framework to image-based models and facilitate dataset-level model explanations.
 
 Teaching
 ===
