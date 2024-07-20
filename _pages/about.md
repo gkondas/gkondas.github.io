@@ -10,17 +10,17 @@ redirect_from:
 About Me
 ===
 
-Hello! I am a full time research assistant at the University of Michigan AI lab working with Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/). I am fortunate to have [Sarah Jabbour](https://sjabbour.github.io/) as an awesome mentor! My research focuses on **machine learning with applications in healthcare.** I will soon be applying to PhD programs starting in 2025. 
+Hello! I am a full time research assistant at the Michigan AI lab working with Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/). I am fortunate to have [Sarah Jabbour](https://sjabbour.github.io/) as an awesome mentor! My research focuses on **machine learning with applications in healthcare.** I am currently interested in problems at the intersection of representation learning and healthcare. I will soon be applying to Ph.D. programs with start dates in the fall of 2025. 
 
-I earned my B.S. in Computer Science with a minor in Physics from the University of Michigan. (Go Blue!) In the past, my interest in science led me to a variety of research fields. I worked on problems in computational neuroscience with Professor [Thad Polk](https://lsa.umich.edu/psych/people/faculty/tpolk.html). I also spent a summer optimizing the construction and testing of components for CERN’s upgraded muon spectrometer under the direction of Professor [Bing Zhou](https://lsa.umich.edu/physics/people/faculty/bzhou.html).
+I earned my B.S. in Computer Science with a minor in Physics from the University of Michigan in 2024. (Go Blue!) In the past, my interest in science led me to a variety of research fields. I worked on problems in computational neuroscience with Professor [Thad Polk](https://lsa.umich.edu/psych/people/faculty/tpolk.html). I also spent a summer optimizing the construction and testing of components for CERN’s upgraded muon spectrometer under the direction of Professor [Bing Zhou](https://lsa.umich.edu/physics/people/faculty/bzhou.html).
 
-Outside of research I enjoy listening to music, keeping up with current events, and playing guitar/bass!
+Outside of research I enjoy listening to music, keeping up with current events, and cooking!
 
 Email: `gkondas (at) umich (dot) edu`
 
 News
 ===
-- **6/20/24**: Started as a full time research assistant with Jenna Wiens's MLD3 group at Michigan
+- **6/20/24**: Started as a full time research assistant with Jenna Wiens's [MLD3](https://wiens-group.engin.umich.edu/) group at Michigan
 - **5/4/24**: Graduated with a B.S. in Computer Science and minor in Physics from Michigan with distinction
 - **6/22/23**: Started as a undergraduate research assistant with Jenna Wiens's MLD3 group at Michigan
 
