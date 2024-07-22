@@ -30,7 +30,7 @@ Publications
 **DEPICT: Diffusion Enabled Permutation Impotance for Image Classification Tasks**  
 Sarah Jabbour, **Gregory Kondas**, Ella Kazerooni, Michael W. Sjoding, David Fouhey*, Jenna Wiens*. *ECCV 2024*.  
 <img src="images/depict_thumbnail.png" alt="depict_thumbnail" width="400" style="float: left; margin-right: 10px;">
-Permutation importance has been used to provide feature importance explanations for tabular-based models. Leveraging text-conditioned diffusion, we extend this framework to image-based models and facilitate dataset-level model explanations. [PDF](https://sjabbour.github.io/files/jabbour_et_al_depict.pdf)[Code](https://github.com/MLD3/DEPICT)
+Permutation importance has been used to provide feature importance explanations for tabular-based models. Leveraging text-conditioned diffusion, we extend this framework to image-based models and facilitate dataset-level model explanations. [\[PDF\]](https://sjabbour.github.io/files/jabbour_et_al_depict.pdf)[\[Code\]](https://github.com/MLD3/DEPICT)
 
 Teaching
 ===
