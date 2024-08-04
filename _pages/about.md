@@ -21,9 +21,9 @@ Email: `gkondas (at) umich (dot) edu`
 News
 ===
 - **7/24**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted to *ECCV 2024*!
-- **6/24**: Started as a full time research assistant with Jenna Wiens's [MLD3](https://wiens-group.engin.umich.edu/) group at Michigan
-- **5/24**: Graduated with a B.S. in Computer Science and minor in Physics from Michigan with distinction
-- **6/23**: Started as a undergraduate research assistant with Jenna Wiens's MLD3 group at Michigan
+- **6/24**: Started as a full time research assistant with Jenna Wiens's [MLD3](https://wiens-group.engin.umich.edu/) group at Michigan.
+- **5/24**: Graduated with a B.S. in Computer Science and minor in Physics from Michigan with distinction.
+- **6/23**: Started as a undergraduate research assistant with Jenna Wiens's MLD3 group at Michigan.
 
 Publications
 ===
