@@ -20,7 +20,7 @@ Email: `gkondas (at) umich (dot) edu`
 
 News
 ===
-- **11/24**: Wrote a blog post on DEPICT for the Michigan AI lab blog. Check it out [here](https://ai.engin.umich.edu/2024/11/01/understanding-image-classifiers-at-the-dataset-level-with-diffusion-models/).
+- **11/24**: I wrote a blog post on DEPICT for the Michigan AI lab blog. Check it out [here](https://ai.engin.umich.edu/2024/11/01/understanding-image-classifiers-at-the-dataset-level-with-diffusion-models/).
 - **7/24**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted to *ECCV 2024*!
 - **6/24**: Started as a full time research assistant with Jenna Wiens's [MLD3](https://wiens-group.engin.umich.edu/) group at Michigan.
 - **5/24**: Graduated with a B.S. in Computer Science and minor in Physics from Michigan with distinction.
