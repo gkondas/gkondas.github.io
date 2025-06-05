@@ -10,11 +10,11 @@ redirect_from:
 About Me
 ===
 
-Hello! I am a full-time research assistant at the Michigan AI lab working with Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/). I am fortunate to have [Sarah Jabbour](https://sjabbour.github.io/) as an awesome mentor! My research focuses on **machine learning with applications in healthcare.** I am currently interested in **foundation models** for **electronic health records** and **wearable data**, as well as **medical time series analysis** and **explainable AI**. I will soon be applying to Ph.D. programs with start dates in the fall of 2025. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
+Hello! I’m an incoming PhD student in AI/ML at [Columbia DBMI](https://www.dbmi.columbia.edu/), where I'll be focusing on machine learning for healthcare. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
 
-I graduated from the University of Michigan in 2024 with a B.S. in Computer Science and a minor in Physics (Go Blue!). I also completed ample coursework in the life sciences. In the past, my broad interest in science led me to a variety of research fields. I worked on problems in computational neuroscience with Professor [Thad Polk](https://lsa.umich.edu/psych/people/faculty/tpolk.html). I also spent a summer optimizing the construction and testing of components for CERN’s upgraded [muon spectrometer](https://atlas.cern/Discover/Detector/Muon-Spectrometer) under the direction of Professor [Bing Zhou](https://lsa.umich.edu/physics/people/faculty/bzhou.html).
+I graduated from the University of Michigan in 2024 with a B.S. in Computer Science and a minor in Physics (Go Blue!). During my time at Michigan, I worked with Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/) both as an undergraduate and a pre-doctoral researcher.
 
-Outside of research I enjoy basketball, keeping up with current events, music, and cooking!
+Outside of research I enjoy cycling, keeping up with current events, music, and cooking!
 
 Email: `gkondas (at) umich (dot) edu`
 
