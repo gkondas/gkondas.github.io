@@ -10,9 +10,9 @@ redirect_from:
 About Me
 ===
 
-Hello! I’m an incoming PhD student in AI/ML at [Columbia DBMI](https://www.dbmi.columbia.edu/), where I'll be focusing on machine learning for healthcare. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
+Hello! I’m an incoming PhD student at [Columbia DBMI](https://www.dbmi.columbia.edu/), where I'll be working on AI for healthcare. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
 
-I graduated from the University of Michigan in 2024 with a B.S. in Computer Science and a minor in Physics (Go Blue!). During my time at Michigan, I worked with Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/) both as an undergraduate and a pre-doctoral researcher.
+I graduated from the University of Michigan in 2024 with a B.S. in Computer Science and a minor in Physics (Go Blue!). During my time at Michigan, I worked with Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/) on machine learning for healthcare, first as an undergraduate researcher and then for a year after graduation as a pre-doctoral research assistant.
 
 Outside of research I enjoy cycling, keeping up with current events, music, and cooking!
 
