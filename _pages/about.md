@@ -16,7 +16,7 @@ I graduated from the University of Michigan with a B.S. in Computer Science and 
 
 Outside of research I enjoy cycling, keeping up with current events, music, and cooking!
 
-Email: `gkondas (at) umich (dot) edu`
+Email: `gbk2114 (at) cumc (dot) columbia (dot) edu`
 
 News
 ===
