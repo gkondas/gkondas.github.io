@@ -10,11 +10,11 @@ redirect_from:
 About Me
 ===
 
-Hello! I’m an incoming PhD student at [Columbia DBMI](https://www.dbmi.columbia.edu/). My research interests lie at the intersection of machine learning, AI, and healthcare. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
+Hello! I’m a PhD student at [Columbia DBMI](https://www.dbmi.columbia.edu/), currently rotating with Professor [Matthew McDermott](https://www.dbmi.columbia.edu/profile/matthew-mcdermott/). My research interests lie at the intersection of machine learning, artificial intelligence, and health. Here is my [CV](https://gkondas.github.io/files/gregCV.pdf).
 
-I graduated from the University of Michigan with a B.S. in Computer Science and a minor in Physics (Go Blue!). While in Ann Arbor, I worked in the Michigan AI Lab with Professor [Jenna Wiens](https://websites.umich.edu/~wiensj/) on machine learning for healthcare, first as an undergraduate researcher and then for a year as a pre-doctoral researcher.
+Before Columbia, I earned a B.S. in Computer Science with a minor in Physics from the University of Michigan. At the Michigan AI Lab with Professor [Jenna Wiens](https://web.eecs.umich.edu/~wiensj/), I worked on machine learning for healthcare, first as an undergraduate researcher, then for a year as a pre-doctoral researcher.
 
-Outside of research I enjoy cycling, keeping up with current events, music, and cooking!
+Outside of research I enjoy cycling, keeping up with the news, music, and cooking!
 
 Email: `gbk2114 (at) cumc (dot) columbia (dot) edu`
 
