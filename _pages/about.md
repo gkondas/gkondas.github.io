@@ -20,6 +20,7 @@ Email: `gbk2114 (at) cumc (dot) columbia (dot) edu`
 
 News
 ===
+- **9/25**: Excited to begin my PhD at Columbia University in NYC, joining the McDermott Health AI Lab and the Department of Biomedical Informatics.
 - **11/24**: I wrote a blog post on DEPICT for the Michigan AI lab blog. Check it out [here](https://ai.engin.umich.edu/2024/11/01/understanding-image-classifiers-at-the-dataset-level-with-diffusion-models/).
 - **7/24**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted to *ECCV 2024*!
 - **6/24**: Started as a full time research assistant with Jenna Wiens's [MLD3](https://wiens-group.engin.umich.edu/) group at Michigan.
