@@ -37,6 +37,6 @@ Permutation importance has been used to provide feature importance explanations 
 
 Teaching
 ===
-- **Teaching Assitstant - PHYSICS 250**: Physics for the Life Sciences II, Spring 2021 - Fall 2023
+- **Teaching Assistant - PHYSICS 250**: Physics for the Life Sciences II, Spring 2021 - Fall 2023
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5w19m8vhder&amp;m=0&amp;c=ff0000&amp;cr1=54ff00&amp;f=arial&amp;l=33" async="async"></script>
