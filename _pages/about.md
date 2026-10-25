@@ -20,21 +20,35 @@ Email: `gbk2114 (at) cumc (dot) columbia (dot) edu`
 
 News
 ===
-- **7/26**: [EveryQuery](https://arxiv.org/abs/2603.07900) was accepted to the Structured Data for Health workshop at ICML 2026.
-- **9/25**: Excited to begin my PhD at Columbia University in NYC, joining the McDermott Health AI Lab and the Department of Biomedical Informatics.
-- **11/24**: I wrote a blog post on DEPICT for the Michigan AI lab blog. Check it out [here](https://ai.engin.umich.edu/2024/11/01/understanding-image-classifiers-at-the-dataset-level-with-diffusion-models/).
-- **7/24**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted to *ECCV 2024*!
-- **6/24**: Started as a full time research assistant with Jenna Wiens's [MLD3](https://wiens-group.engin.umich.edu/) group at Michigan.
-- **5/24**: Graduated with a B.S. in Computer Science and minor in Physics from Michigan with distinction.
-- **6/23**: Started as a undergraduate research assistant with Jenna Wiens's MLD3 group at Michigan.
+- **Jul 2026**: [EveryQuery](https://arxiv.org/abs/2603.07900) was accepted to the Structured Data for Health workshop at ICML 2026.
+- **Sep 2025**: Excited to begin my PhD at Columbia University in NYC, joining the McDermott Health AI Lab and the Department of Biomedical Informatics.
+- **Nov 2024**: I wrote a blog post on DEPICT for the Michigan AI lab blog. Check it out [here](https://ai.engin.umich.edu/2024/11/01/understanding-image-classifiers-at-the-dataset-level-with-diffusion-models/).
+- **Jul 2024**: **DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks** accepted to *ECCV 2024*!
+- **Jun 2024**: Started as a full time research assistant with Jenna Wiens's [MLD3](https://wiens-group.engin.umich.edu/) group at Michigan.
+- **May 2024**: Graduated with a B.S. in Computer Science and minor in Physics from Michigan with distinction.
+- **Jun 2023**: Started as a undergraduate research assistant with Jenna Wiens's MLD3 group at Michigan.
 
 Publications
 ===
 
+<div class="pub">
+  <div class="pub__body" markdown="1">
+**EveryQuery: A Promptable Foundation Model for Clinical Prediction Tasks over Electronic Health Records**  
+Payal Chandak, **Gregory Kondas**, Liat Antwarg Friedman, Isaac Kohane, Matthew McDermott. *Structured Data for Health Workshop, ICML 2026*. [\[paper\]](https://arxiv.org/abs/2603.07900)  
+Autoregressive EHR foundation models have to simulate many patient trajectories at inference time, which is costly and noisy for rare events. EveryQuery takes a structured clinical query as a prompt alongside the patient history and estimates the outcome directly, with the largest gains on rare outcomes.
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub__thumb">
+    <img src="/images/depict_thumbnail.png" alt="DEPICT results: correlation between DEPICT feature importance and oracle importance, and AUROC change per concept">
+  </div>
+  <div class="pub__body" markdown="1">
 **DEPICT: Diffusion Enabled Permutation Importance for Image Classification Tasks**  
-Sarah Jabbour, **Gregory Kondas**, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *ECCV 2024*. [\[paper\]](https://arxiv.org/abs/2407.14509)[\[code\]](https://github.com/MLD3/DEPICT)  
-<img src="images/depict_thumbnail.png" alt="depict_thumbnail" width="400" style="float: left; margin-right: 10px;">
-Permutation importance has been used to provide feature importance explanations for tabular-based models. Leveraging text-conditioned diffusion, we extend this framework to image-based models and facilitate dataset-level model explanations. 
+Sarah Jabbour, **Gregory Kondas**, Ella Kazerooni, Michael W. Sjoding, David Fouhey\*, Jenna Wiens\*. *ECCV 2024*. [\[paper\]](https://arxiv.org/abs/2407.14509) [\[code\]](https://github.com/MLD3/DEPICT)  
+Permutation importance has been used to provide feature importance explanations for tabular-based models. Leveraging text-conditioned diffusion, we extend this framework to image-based models and facilitate dataset-level model explanations.
+  </div>
+</div>
 
 Teaching
 ===
