@@ -147,6 +147,13 @@ include:
   - _pages
   - files
 exclude:
+  - CLAUDE.md
+  - CONTRIBUTING.md
+  - markdown_generator
+  - nemo
+  - run.sh
+  - talkmap.ipynb
+  - talkmap.py
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
