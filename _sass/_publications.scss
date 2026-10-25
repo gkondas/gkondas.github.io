@@ -1,0 +1,38 @@
+/* ==========================================================================
+   PUBLICATION ENTRIES (home page)
+   ========================================================================== */
+
+.pub {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25em;
+  margin-bottom: 1.75em;
+
+  @include breakpoint(max-width $small) {
+    flex-direction: column;
+    gap: 0.75em;
+  }
+}
+
+.pub__thumb {
+  flex: 0 0 200px;
+  max-width: 100%;
+
+  img {
+    display: block;
+    width: 100%;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+  }
+}
+
+.pub__body {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  p {
+    margin: 0;
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+}
